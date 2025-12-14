@@ -81,3 +81,9 @@ adb devices
 ---
 
 That’s it. If this breaks, it’s almost always PATH, PowerShell, or the emulator not running — not the APK.
+
+<img width="1096" height="767" alt="image" src="https://github.com/user-attachments/assets/83b5d083-66b0-4d83-904b-be4b24d6f28a" />
+
+<img width="793" height="546" alt="image" src="https://github.com/user-attachments/assets/230e4507-4b83-4116-a082-ec70605f8831" />
+
+
