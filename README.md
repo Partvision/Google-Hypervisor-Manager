@@ -1,5 +1,7 @@
 # Google-Hypervisor-Manager
 
+## **Before you read, I don't work for Google. this software isnt affiliated with them in any way, this is simply a manager for the Google Emulator that Android Studio uses.**
+
 A lightweight manager for the **Android x86 emulator** provided by Google, written in **Python**.
 
 * **No admin privileges required**
