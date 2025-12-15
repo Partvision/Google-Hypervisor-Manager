@@ -1,6 +1,7 @@
 # Google-Hypervisor-Manager
 
 ## **Before you read, I don't work for Google. this software isnt affiliated with them in any way, this is simply a manager for the Google Emulator that Android Studio uses.**
+### **Known issues are at the bottom.**
 
 A lightweight manager for the **Android x86 emulator** provided by Google, written in **Python**.
 
@@ -88,4 +89,11 @@ That’s it. If this breaks, it’s almost always PATH, PowerShell, or the emula
 
 <img width="793" height="546" alt="image" src="https://github.com/user-attachments/assets/230e4507-4b83-4116-a082-ec70605f8831" />
 
-
+## Known Issues
+* ❌ ERROR: Command '"C:\Users\user\Android\Sdk\cmdline-tools\latest\bin\sdkmanager.bat" --licenses' failed with exit status 1.
+  
+  This can be fixed by running as admin. Currently no other fix other than running
+  
+* Not able to change or tamper with resolution -- causes failed bootup
+  
+  No fix, working on a fix for the stable release.
