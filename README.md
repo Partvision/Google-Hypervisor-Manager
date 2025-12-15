@@ -92,7 +92,7 @@ That’s it. If this breaks, it’s almost always PATH, PowerShell, or the emula
 ## Known Issues
 * ❌ ERROR: Command '"C:\Users\user\Android\Sdk\cmdline-tools\latest\bin\sdkmanager.bat" --licenses' failed with exit status 1.
   
-  This can be fixed by running as admin. Currently no other fix other than running
+  This can be fixed by running as admin. Currently no other fix.
   
 * Not able to change or tamper with resolution -- causes failed bootup
   
